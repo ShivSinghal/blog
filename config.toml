@@ -59,7 +59,7 @@ copyright = "Shiv Singhal"            # default: author.name ↓        # 默认
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-  since = "2018"            # Site creation time          # 站点建立时间
+  since = "2021"            # Site creation time          # 站点建立时间
   # use public git repo url to link lastmod git commit, enableGitInfo should be true.
   # 指定 git 仓库地址，可以生成指向最近更新的 git commit 的链接，需要将 enableGitInfo 设置成 true.
   gitRepo = "https://github.com/ShivSinghal/blog"
@@ -146,7 +146,7 @@ copyright = "Shiv Singhal"            # default: author.name ↓        # 默认
     clientSecret = ""       # Your client secret
 
   [params.utterances]       # https://utteranc.es/
-    owner = "ramantehlan"              # Your GitHub ID
+    owner = "ShivSinghal"              # Your GitHub ID
     repo = "blog-comments"               # The repo to store comments
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
@@ -188,12 +188,12 @@ copyright = "Shiv Singhal"            # default: author.name ↓        # 默认
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-#    a-email = "mailto:ramantehlan@gmail.com"
+   a-email = "mailto:shivsinghal53@gmail.com"
 #    b-stack-overflow = "http://localhost:1313"
 #    d-facebook = "http://localhost:1313"
 #    f-google = "http://localhost:1313"
-    c-twitter = "https://twitter.com/Shiv53"
-#    e-linkedin = "https://www.linkedin.com/in/ramantehlan/"
+   e-linkedin = "https://www.linkedin.com/in/shiv-singhal/"
+#   c-twitter = "https://twitter.com/Shiv53"
     g-github = "https://github.com/ShivSinghal"
 #    h-weibo = "http://localhost:1313"
 #    i-zhihu = "http://localhost:1313"

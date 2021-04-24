@@ -154,7 +154,3 @@ This project is more like an experiment or a prototype. So if there are bugs or 
 # Acknowledgement
 
 - Logo made by <a href="https://www.flaticon.com/authors/trinh-ho" title="Trinh Ho">Trinh Ho</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-
- 
-
-
