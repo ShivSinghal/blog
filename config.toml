@@ -1,4 +1,4 @@
-baseURL = "https://blog.ramantehlan.com"
+baseURL = "https://shivsinghal.github.io/blog"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Official Blog of Raman Tehlan"
@@ -164,7 +164,7 @@ copyright = "Raman Tehlan"            # default: author.name ↓        # 默认
     appKey = '你的appKey'
     notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
     verify = false # Verification code
-    avatar = 'mm' 
+    avatar = 'mm'
     placeholder = '说点什么吧...'
     visitor = false
 
